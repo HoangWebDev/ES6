@@ -1,0 +1,1818 @@
+{
+  "danh_muc": [
+    {
+      "id": "1",
+      "ten_danh_muc": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "ten_danh_muc": "Laptop"
+    },
+    {
+      "id": "3",
+      "ten_danh_muc": "Tablet"
+    },
+    {
+      "id": "f179",
+      "ten_danh_muc": "Tai Nghe"
+    }
+  ],
+  "loai": [
+    {
+      "id": "1",
+      "id_danh_muc": "1",
+      "ten_loai": "Samsung Galaxy"
+    },
+    {
+      "id": "2",
+      "id_danh_muc": "1",
+      "ten_loai": "Iphone"
+    },
+    {
+      "id": "3",
+      "id_danh_muc": "1",
+      "ten_loai": "Oppo"
+    },
+    {
+      "id": "4",
+      "id_danh_muc": "1",
+      "ten_loai": "Xiaomi"
+    },
+    {
+      "id": "5",
+      "id_danh_muc": "1",
+      "ten_loai": "Vivo"
+    },
+    {
+      "id": "6",
+      "id_danh_muc": "1",
+      "ten_loai": "Realme"
+    },
+    {
+      "id": "7",
+      "id_danh_muc": "2",
+      "ten_loai": "Asus"
+    },
+    {
+      "id": "8",
+      "id_danh_muc": "2",
+      "ten_loai": "MSI"
+    },
+    {
+      "id": "9",
+      "id_danh_muc": "2",
+      "ten_loai": "Dell"
+    },
+    {
+      "id": "10",
+      "id_danh_muc": "2",
+      "ten_loai": "Macbook"
+    },
+    {
+      "id": "11",
+      "id_danh_muc": "3",
+      "ten_loai": "Ipad"
+    },
+    {
+      "id": "12",
+      "id_danh_muc": "3",
+      "ten_loai": "Samsung Tab"
+    },
+    {
+      "id": "13",
+      "id_danh_muc": "1",
+      "ten_loai": "Xiaomi Pad"
+    },
+    {
+      "id": "959a",
+      "id_danh_muc": "2",
+      "ten_loai": "Lenovo"
+    },
+    {
+      "id": "76bf",
+      "id_danh_muc": "f179",
+      "ten_loai": "Air Pods"
+    },
+    {
+      "id": "ea66",
+      "id_danh_muc": "f179",
+      "ten_loai": "Tai Nghe Có Dây"
+    }
+  ],
+  "san_pham": [
+    {
+      "id": "1",
+      "id_danh_muc": "1",
+      "id_loai": "1",
+      "ten_sp": "Samsung Galaxy Z Flip",
+      "gia": "11190000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-samsung/samsung_galaxy_z_flip.jpg",
+      "ngay": "2024-02-01",
+      "mau_sac": "Xám",
+      "xem": "525",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "2",
+      "id_danh_muc": "2",
+      "id_loai": "7",
+      "ten_sp": "Asus TUF Gaming F15",
+      "gia": "19490000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-laptop/asus/asus-tuf-gaming-f15-2.jpg",
+      "ngay": "2023-10-10",
+      "mau_sac": "Đen",
+      "xem": "945",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "3",
+      "id_danh_muc": "3",
+      "id_loai": "11",
+      "ten_sp": "iPad 10.2 2021",
+      "gia": "6729000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-ipad/ipad-10-2-inch-2021_1.jpg",
+      "ngay": "2023-11-21",
+      "mau_sac": "Đen",
+      "xem": "264",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "4",
+      "id_danh_muc": "1",
+      "id_loai": "6",
+      "ten_sp": "Realme GT Neo 5",
+      "gia": "6250000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-realme/purple-be8e0ce5d0.jpg",
+      "ngay": "2023-06-24",
+      "mau_sac": "Xanh",
+      "xem": "742",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "5",
+      "id_danh_muc": "2",
+      "id_loai": "8",
+      "ten_sp": "MSI Gaming Bravo 15",
+      "gia": "11458000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-laptop/msi/msi-bravo-15.jpg",
+      "ngay": "2024-05-22",
+      "mau_sac": "Đen",
+      "xem": "318",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "6",
+      "id_danh_muc": "3",
+      "id_loai": "12",
+      "ten_sp": "Samsung Galaxy Tab A9",
+      "gia": "3290000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-tablet/samsung/samsung-galaxy-tab-a9_10.jpg",
+      "ngay": "2024-09-26",
+      "mau_sac": "Xanh",
+      "xem": "674",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "7",
+      "id_danh_muc": "1",
+      "id_loai": "2",
+      "ten_sp": "iPhone 13",
+      "gia": "15850000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-iphone/iphone-13_2.jpg",
+      "ngay": "2023-01-12",
+      "mau_sac": "Hồng",
+      "xem": "452",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "8",
+      "id_danh_muc": "2",
+      "id_loai": "9",
+      "ten_sp": "Dell Inspiron 14",
+      "gia": "13671000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-laptop/dell/dell-inspirion-14.jpg",
+      "ngay": "2023-10-01",
+      "mau_sac": "Trắng",
+      "xem": "355",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "9",
+      "id_danh_muc": "3",
+      "id_loai": "13",
+      "ten_sp": "Xiaomi Pad 6 CPS",
+      "gia": "8490000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-tablet/xiaomi/mi-pad-6-cps-doc-quyen.png.jpg",
+      "ngay": "2024-02-17",
+      "mau_sac": "Xám",
+      "xem": "449",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "10",
+      "id_danh_muc": "1",
+      "id_loai": "3",
+      "ten_sp": "Oppo Find N3",
+      "gia": "44990000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-oppo/oppo_find_n3.jpg",
+      "ngay": "2024-05-02",
+      "mau_sac": "Trắng",
+      "xem": "381",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "11",
+      "id_danh_muc": "2",
+      "id_loai": "10",
+      "ten_sp": "MacBook Pro 16 M3",
+      "gia": "79990000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-macbook/apple-macbook-pro-16-inch-m3-pro.jpg",
+      "ngay": "2023-01-19",
+      "mau_sac": "Xanh",
+      "xem": "720",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "12",
+      "id_danh_muc": "3",
+      "id_loai": "11",
+      "ten_sp": "iPad 10.9 2022",
+      "gia": "14390000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-ipad/ipad-10-9-inch-2022.jpg",
+      "ngay": "2024-03-22",
+      "mau_sac": "Trắng",
+      "xem": "717",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "13",
+      "id_danh_muc": "1",
+      "id_loai": "2",
+      "ten_sp": "iPhone 14 Plus",
+      "gia": "14191000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-iphone/iphone-14_1.jpg",
+      "ngay": "2024-01-12",
+      "mau_sac": "Xám",
+      "xem": "478",
+      "hot": "0",
+      "an_hien": "0"
+    },
+    {
+      "id": "14",
+      "id_danh_muc": "2",
+      "id_loai": "7",
+      "ten_sp": "Asus Vivobook Go 14",
+      "gia": "12790000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-laptop/asus/asus-vivobook-go14.jpg",
+      "ngay": "2024-09-16",
+      "mau_sac": "Trắng",
+      "xem": "569",
+      "hot": "1",
+      "an_hien": "0"
+    },
+    {
+      "id": "15",
+      "id_danh_muc": "3",
+      "id_loai": "13",
+      "ten_sp": "Redmi Pad",
+      "gia": "5050000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-tablet/xiaomi/redmi-pad.jpg",
+      "ngay": "2024-04-15",
+      "mau_sac": "Xám",
+      "xem": "628",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "16",
+      "id_danh_muc": "1",
+      "id_loai": "4",
+      "ten_sp": "Xiaomi 13T Pro",
+      "gia": "15490000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-xiaomi/xiaomi-13-pro-thumb-xanh-la9.jpg",
+      "ngay": "2023-02-13",
+      "mau_sac": "Trắng",
+      "xem": "822",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "17",
+      "id_danh_muc": "1",
+      "id_loai": "3",
+      "ten_sp": "Oppo Find N2 Flip",
+      "gia": "16990000",
+      "giam_gia": "12%",
+      "hinh": "./image/img-oppo/oppo-find-n2-flip.jpg",
+      "ngay": "2023-12-10",
+      "mau_sac": "Trắng",
+      "xem": "680",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "18",
+      "id_danh_muc": "2",
+      "id_loai": "8",
+      "ten_sp": "MSI Gaming GF63 12UC",
+      "gia": "19490000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-laptop/msi/msi-gf63-12uc.jpg",
+      "ngay": "2023-05-27",
+      "mau_sac": "Đen",
+      "xem": "696",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "19",
+      "id_danh_muc": "1",
+      "id_loai": "1",
+      "ten_sp": "Samsung Galaxy Z Fold4",
+      "gia": "15490000",
+      "giam_gia": "12%",
+      "hinh": "./image/img-samsung/samsung_galaxy_z_fold_4.jpg",
+      "ngay": "2023-02-06",
+      "mau_sac": "Trắng",
+      "xem": "942",
+      "hot": "1",
+      "an_hien": "0"
+    },
+    {
+      "id": "20",
+      "id_danh_muc": "1",
+      "id_loai": "2",
+      "ten_sp": "iPhone 15 Plus",
+      "gia": "24590000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-iphone/iphone-15-plus_1__1.jpg",
+      "ngay": "2024-08-04",
+      "mau_sac": "Xám",
+      "xem": "823",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "21",
+      "id_danh_muc": "2",
+      "id_loai": "10",
+      "ten_sp": "MacBook Air 13 M2",
+      "gia": "11215000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-macbook/mac-air-13-m2-xam-650x650.jpg",
+      "ngay": "2024-06-18",
+      "mau_sac": "Đen",
+      "xem": "825",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "22",
+      "id_danh_muc": "1",
+      "id_loai": "6",
+      "ten_sp": "Realme 9 Pro",
+      "gia": "4590000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-realme/real_me_pro_002.jpg",
+      "ngay": "2024-09-22",
+      "mau_sac": "Đen",
+      "xem": "649",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "23",
+      "id_danh_muc": "1",
+      "id_loai": "4",
+      "ten_sp": "Xiaomi Poco X5",
+      "gia": "6050000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-xiaomi/poco-x5-256gb_1.jpg",
+      "ngay": "2023-08-16",
+      "mau_sac": "Đen",
+      "xem": "720",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "24",
+      "id_danh_muc": "3",
+      "id_loai": "13",
+      "ten_sp": "Xiaomi Pad 6",
+      "gia": "9690000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-tablet/xiaomi/xiaomi-mi-pad-6-8gb-128gb_4__1.jpg",
+      "ngay": "2023-07-19",
+      "mau_sac": "Trắng",
+      "xem": "989",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "25",
+      "id_danh_muc": "1",
+      "id_loai": "5",
+      "ten_sp": "Vivo V25 Pro",
+      "gia": "7990000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-vivo/vivo-v25-pro.jpg",
+      "ngay": "2023-03-03",
+      "mau_sac": "Trắng",
+      "xem": "428",
+      "hot": "0",
+      "an_hien": "0"
+    },
+    {
+      "id": "26",
+      "id_danh_muc": "2",
+      "id_loai": "8",
+      "ten_sp": "MSI Gaming GF63",
+      "gia": "17990000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-laptop/msi/msi-gf63-thin.jpg",
+      "ngay": "2023-03-01",
+      "mau_sac": "Đen",
+      "xem": "200",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "27",
+      "id_danh_muc": "1",
+      "id_loai": "3",
+      "ten_sp": "Oppo Find N3 Flip",
+      "gia": "22990000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-oppo/find-n3-flip-vang_1.jpg",
+      "ngay": "2024-03-03",
+      "mau_sac": "Trắng",
+      "xem": "392",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "28",
+      "id_danh_muc": "3",
+      "id_loai": "12",
+      "ten_sp": "Samsung Galaxy Tab S9 Plus",
+      "gia": "21490000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-tablet/samsung/tab-s9-plus-xam-3.jpg",
+      "ngay": "2024-10-14",
+      "mau_sac": "Đen",
+      "xem": "885",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "29",
+      "id_danh_muc": "1",
+      "id_loai": "5",
+      "ten_sp": "Vivo V27e",
+      "gia": "7990000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-vivo/vivo-v27e.jpg",
+      "ngay": "2024-11-16",
+      "mau_sac": "Xám",
+      "xem": "851",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "30",
+      "id_danh_muc": "1",
+      "id_loai": "1",
+      "ten_sp": "Samsung Galaxy S22 Ultra",
+      "gia": "17550000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-samsung/samsung_galaxys22ultra.jpg",
+      "ngay": "2023-07-18",
+      "mau_sac": "Xám",
+      "xem": "807",
+      "hot": "0",
+      "an_hien": "0"
+    },
+    {
+      "id": "31",
+      "id_danh_muc": "1",
+      "id_loai": "1",
+      "ten_sp": "Samsung Galaxy Z Flip5",
+      "gia": "17490000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-samsung/samsung_z_flip5.jpg",
+      "ngay": "2024-06-03",
+      "mau_sac": "Đen",
+      "xem": "808",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "32",
+      "id_danh_muc": "2",
+      "id_loai": "10",
+      "ten_sp": "MacBook Pro 16 M2",
+      "gia": "61490000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-macbook/mac-pro-16-m2-xam-650x650.jpg",
+      "ngay": "2023-02-11",
+      "mau_sac": "Xám",
+      "xem": "253",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "33",
+      "id_danh_muc": "2",
+      "id_loai": "9",
+      "ten_sp": "Dell Inspiron 7506",
+      "gia": "17990000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-laptop/dell/dell-inspirion-7506.jpg",
+      "ngay": "2023-08-20",
+      "mau_sac": "Xám",
+      "xem": "595",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "34",
+      "id_danh_muc": "1",
+      "id_loai": "2",
+      "ten_sp": "iPhone 14 Pro Max",
+      "gia": "26990000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-iphone/iphone-14-pro_2__5.jpg",
+      "ngay": "2024-05-21",
+      "mau_sac": "Trắng",
+      "xem": "530",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "35",
+      "id_danh_muc": "2",
+      "id_loai": "9",
+      "ten_sp": "Dell Inspiron 15",
+      "gia": "9990000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-laptop/dell/dell-inspirion-15.jpg",
+      "ngay": "2023-02-06",
+      "mau_sac": "Đen",
+      "xem": "297",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "36",
+      "id_danh_muc": "3",
+      "id_loai": "11",
+      "ten_sp": "iPad Air 5",
+      "gia": "18290000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-ipad/ipad-air-5.jpg",
+      "ngay": "2023-12-15",
+      "mau_sac": "Xám",
+      "xem": "387",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "37",
+      "id_danh_muc": "3",
+      "id_loai": "12",
+      "ten_sp": "Samsung Galaxy Tab S9",
+      "gia": "18090000",
+      "giam_gia": "20%",
+      "hinh": "./image/img-tablet/samsung/samsung-tab-s9-xam-1-doc0quyen.jpg",
+      "ngay": "2024-03-06",
+      "mau_sac": "Đen",
+      "xem": "284",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "38",
+      "id_danh_muc": "1",
+      "id_loai": "3",
+      "ten_sp": "Oppo Reno 10",
+      "gia": "9990000",
+      "giam_gia": "12%",
+      "hinh": "./image/img-oppo/reno10_5g_-_combo_product_-_blue.jpg",
+      "ngay": "2023-10-15",
+      "mau_sac": "Xám",
+      "xem": "742",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "39",
+      "id_danh_muc": "1",
+      "id_loai": "4",
+      "ten_sp": "Xiaomi 13T",
+      "gia": "15490000",
+      "giam_gia": "12%",
+      "hinh": "./image/img-xiaomi/xiaomi-13t_1__1_2.jpg",
+      "ngay": "2023-06-16",
+      "mau_sac": "Xám",
+      "xem": "935",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "40",
+      "id_danh_muc": "2",
+      "id_loai": "8",
+      "ten_sp": "MSI Gaming Katana 15",
+      "gia": "29990000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-laptop/msi/msi-katana-15.jpg",
+      "ngay": "2023-04-26",
+      "mau_sac": "Trắng",
+      "xem": "740",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "41",
+      "id_danh_muc": "2",
+      "id_loai": "7",
+      "ten_sp": "Asus ZenBook 14",
+      "gia": "19990000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-laptop/asus/asus-zenobook14.jpg",
+      "ngay": "2024-06-01",
+      "mau_sac": "Xám",
+      "xem": "835",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "42",
+      "id_danh_muc": "1",
+      "id_loai": "4",
+      "ten_sp": "Xiaomi Redmi Note 12",
+      "gia": "3790000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-xiaomi/xiaomi-redmi-note-12_1.jpg",
+      "ngay": "2023-12-03",
+      "mau_sac": "Xám",
+      "xem": "194",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "43",
+      "id_danh_muc": "1",
+      "id_loai": "6",
+      "ten_sp": "Realme C51",
+      "gia": "3290000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-realme/realme-c51_2.jpg",
+      "ngay": "2024-04-07",
+      "mau_sac": "Trắng",
+      "xem": "570",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "44",
+      "id_danh_muc": "3",
+      "id_loai": "11",
+      "ten_sp": "iPad Pro 2022 11inch M2",
+      "gia": "34690000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-ipad/ipad-pro-2022-11-inch-m2.jpg",
+      "ngay": "2023-07-20",
+      "mau_sac": "Đen",
+      "xem": "960",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "45",
+      "id_danh_muc": "1",
+      "id_loai": "5",
+      "ten_sp": "Vivo V29e",
+      "gia": "8690000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-vivo/vivo-v29e_3__1_2.jpg",
+      "ngay": "2023-12-10",
+      "mau_sac": "Đen",
+      "xem": "699",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "46",
+      "id_danh_muc": "1",
+      "id_loai": "5",
+      "ten_sp": "Vivo Y16",
+      "gia": "3790000",
+      "giam_gia": "15%",
+      "hinh": "./image/img-vivo/vivo-y16.jpg",
+      "ngay": "2024-12-23",
+      "mau_sac": "Xám",
+      "xem": "296",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "47",
+      "id_danh_muc": "1",
+      "id_loai": "6",
+      "ten_sp": "Realme 11 Pro",
+      "gia": "10990000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-realme/realme-11-pro.jpg",
+      "ngay": "2023-05-11",
+      "mau_sac": "Xám",
+      "xem": "209",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "48",
+      "id_danh_muc": "2",
+      "id_loai": "7",
+      "ten_sp": "Asus Vivobook 15",
+      "gia": "16990000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-laptop/asus/asus-vivobook15.jpg",
+      "ngay": "2024-06-15",
+      "mau_sac": "Trắng",
+      "xem": "899",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "49",
+      "id_danh_muc": "2",
+      "id_loai": "10",
+      "ten_sp": "MacBook Air 15 M2",
+      "gia": "36490000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-macbook/mac-air-15-m2-starlight-650x650.jpg",
+      "ngay": "2024-08-26",
+      "mau_sac": "Đen",
+      "xem": "670",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "50",
+      "id_danh_muc": "2",
+      "id_loai": "9",
+      "ten_sp": "Dell Inspiron",
+      "gia": "12990000",
+      "giam_gia": "0%",
+      "hinh": "./image/img-laptop/dell/dell-inspirion.jpg",
+      "ngay": "2024-06-12",
+      "mau_sac": "Đen",
+      "xem": "638",
+      "hot": "0",
+      "an_hien": "1"
+    },
+    {
+      "id": "51",
+      "id_danh_muc": "3",
+      "id_loai": "12",
+      "ten_sp": "Samsung Galaxy Tab S9 FE",
+      "gia": "9390000",
+      "giam_gia": "5%",
+      "hinh": "./image/img-tablet/samsung/samsung-galaxy-tab-s9-fe-wifi_3.jpg",
+      "ngay": "2024-11-03",
+      "mau_sac": "Trắng",
+      "xem": "272",
+      "hot": "0",
+      "an_hien": "0"
+    },
+    {
+      "id": "52",
+      "id_danh_muc": "3",
+      "id_loai": "13",
+      "ten_sp": "Xiaomi Redmi Pad SE",
+      "gia": "4990000",
+      "giam_gia": "20%",
+      "hinh": "./image/img-tablet/xiaomi/xiaomi-redmi-pad-se_1_3.jpg",
+      "ngay": "2024-04-07",
+      "mau_sac": "Đen",
+      "xem": "581",
+      "hot": "1",
+      "an_hien": "1"
+    },
+    {
+      "id": "61c5",
+      "id_danh_muc": "1",
+      "id_loai": "1",
+      "ten_sp": "Samsung Galaxy S24 Ultra",
+      "gia": "27090000",
+      "giam_gia": "20%",
+      "hinh": "./image/img-samsung/ss-s24-ultra-xam-222.jpg",
+      "ngay": "2024-02-24",
+      "mau_sac": "Xám",
+      "hot": "1"
+    },
+    {
+      "id": "2722",
+      "id_danh_muc": "2",
+      "id_loai": "959a",
+      "ten_sp": "Laptop lenovo",
+      "gia": "15000000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-lenovo/lenovo_ideapad_gaming.jpg",
+      "ngay": "2024-02-25",
+      "mau_sac": "Trắng",
+      "hot": "0"
+    },
+    {
+      "id": "1db3",
+      "id_danh_muc": "f179",
+      "id_loai": "76bf",
+      "ten_sp": "Tai nghe Bluetooth Apple AirPods Pro 2 2023 USB-C",
+      "gia": "5890000",
+      "giam_gia": "10%",
+      "hinh": "./image/img-tainghe/airpods/apple-airpods-pro-2-usb-c_1.jpg",
+      "ngay": "2024-02-24",
+      "mau_sac": "Trắng",
+      "hot": "1"
+    }
+  ],
+  "thuoc_tinh": [
+    {
+      "id": "1",
+      "id_sp": "1",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Snapdragon 8+ Gen 1",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.2",
+      "pin": "3700mAh",
+      "cong_nghe_man_hinh": " Foldable Dynamic AMOLED 2X",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type C, 3.5 mm"
+    },
+    {
+      "id": "2",
+      "id_sp": "2",
+      "ram": "16GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "Intel, Core i5, 12500H",
+      "sim": "",
+      "blue_tooth": "v5.2",
+      "pin": "5100 mAh",
+      "cong_nghe_man_hinh": "Anti - Glare",
+      "card_do_hoa": "GeForce RTX 3050",
+      "cong_ket_noi": "1 HDMI 2.1"
+    },
+    {
+      "id": "3",
+      "id_sp": "3",
+      "ram": "3GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple A13 Bionic",
+      "sim": "Nano SIM",
+      "blue_tooth": "v4.2",
+      "pin": "3000 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Computer sync"
+    },
+    {
+      "id": "4",
+      "id_sp": "4",
+      "ram": "16GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "Snapdragon 8+ Gen 1",
+      "sim": "2 SIM, NanoSIM",
+      "blue_tooth": "v5.3",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "5",
+      "id_sp": "5",
+      "ram": "8GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "AMD, Ryzen 5, 5600H",
+      "sim": "",
+      "blue_tooth": "v5.1",
+      "pin": "4500 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "Radeon RX 5500M",
+      "cong_ket_noi": "Type-C , 3.5 mm"
+    },
+    {
+      "id": "6",
+      "id_sp": "6",
+      "ram": "4GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "125GB",
+        "large": "256GB"
+      },
+      "cpu": "MediaTek Helio G99 8 nhân",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "5100 mAh",
+      "cong_nghe_man_hinh": "TFT LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "7",
+      "id_sp": "7",
+      "ram": "4GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple A15",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.0",
+      "pin": "3240 mAh",
+      "cong_nghe_man_hinh": "Super Retina XDR OLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Lightning"
+    },
+    {
+      "id": "8",
+      "id_sp": "8",
+      "ram": "16GB",
+      "dia": {
+        "small": "256GB",
+        "medium": "512GB",
+        "large": "1TB"
+      },
+      "cpu": "Intel Core i7-1355U",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "4 Cell, 54 Wh",
+      "cong_nghe_man_hinh": "Độ sáng 250 nit ComfortView",
+      "card_do_hoa": "Intel Iris Xe Graphics",
+      "cong_ket_noi": "1x HDMI 1.4"
+    },
+    {
+      "id": "9",
+      "id_sp": "9",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Qualcomm Snapdragon 870 5G",
+      "sim": "",
+      "blue_tooth": "v5.1",
+      "pin": "8840 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "10",
+      "id_sp": "10",
+      "ram": "16GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "Snapdragon 8 Gen 2 8 nhân",
+      "sim": "Nano-SIM + eSIM",
+      "blue_tooth": "v5.3",
+      "pin": "4805 mAh",
+      "cong_nghe_man_hinh": "OLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "11",
+      "id_sp": "11",
+      "ram": "36GB",
+      "dia": {
+        "small": "256GB",
+        "medium": "512GB",
+        "large": "1TB"
+      },
+      "cpu": "Apple M3 Pro",
+      "sim": "",
+      "blue_tooth": "v5.0",
+      "pin": "70Wh",
+      "cong_nghe_man_hinh": "Wide color True Tone Technology",
+      "card_do_hoa": "Card tích hợp - 18 nhân GPU",
+      "cong_ket_noi": "3 x Thunderbolt 4 / HDMI"
+    },
+    {
+      "id": "12",
+      "id_sp": "12",
+      "ram": "4GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple A14 Bionic 6 nhân",
+      "sim": "1 Nano SIM hoặc 1 eSIM",
+      "blue_tooth": "v5.2",
+      "pin": "28.6 Wh",
+      "cong_nghe_man_hinh": "Retina IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "13",
+      "id_sp": "13",
+      "ram": "6GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple A15 Bionic 6 nhân",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.3",
+      "pin": "4325 mAh",
+      "cong_nghe_man_hinh": "OLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Lightning"
+    },
+    {
+      "id": "14",
+      "id_sp": "14",
+      "ram": "16GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "AMD Ryzen 5 7520U",
+      "sim": "",
+      "blue_tooth": "v5.0",
+      "pin": "42WHrs, 3S1P, Li-ion 3 cell",
+      "cong_nghe_man_hinh": "Màn hình chống chói",
+      "card_do_hoa": "AMD Radeon Graphics",
+      "cong_ket_noi": "1 x USB 2.0 Type-A, 1 x USB 3.2 Gen 1 Type-A, 1 x USB 3.2 Gen 1 Type-C, 1 x HDMI 1.4, 1 x Jack cắm tai nghe 3.5 mm, 1 x Đầu vào DC"
+    },
+    {
+      "id": "15",
+      "id_sp": "15",
+      "ram": "3GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "MediaTek Helio G99",
+      "sim": "",
+      "blue_tooth": "v5.3, A2DP, LE",
+      "pin": "8000 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "16",
+      "id_sp": "16",
+      "ram": "12GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Dimensity 9200+",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.3",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "OLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "17",
+      "id_sp": "17",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "MediaTek 9000+ (4nm)",
+      "sim": "2 SIM (Nano-SIM)",
+      "blue_tooth": "v5.3",
+      "pin": "4300 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C , 3.5 mm"
+    },
+    {
+      "id": "18",
+      "id_sp": "18",
+      "ram": "8GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "Intel Core i7-12650H",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "3 Cell 52.4 WHr",
+      "cong_nghe_man_hinh": "OLED",
+      "card_do_hoa": "Nvidia Geforce RTX 3050 4GB GDDR6",
+      "cong_ket_noi": "1x Type-C USB3.2 Gen1 (support DisplayPort), 3x Type-A USB3.2 Gen1 1x (4K @ 30Hz) HDMI, 1x RJ45, 1x Mic-in, 1x Headphone-out"
+    },
+    {
+      "id": "19",
+      "id_sp": "19",
+      "ram": "12GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Snapdragon 8 Plus Gen 1",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.2",
+      "pin": "4,400 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C , 3.5 mm"
+    },
+    {
+      "id": "20",
+      "id_sp": "20",
+      "ram": "6GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple A16 Bionic",
+      "sim": "2 SIM (nano‑SIM và eSIM)",
+      "blue_tooth": "v5.3",
+      "pin": "4383 mAh",
+      "cong_nghe_man_hinh": "Super Retina XDR OLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C"
+    },
+    {
+      "id": "21",
+      "id_sp": "21",
+      "ram": "16GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple M2",
+      "sim": "",
+      "blue_tooth": "v5.0",
+      "pin": "52.2WH",
+      "cong_nghe_man_hinh": "Wide color (P3), 500 nits, True Tone Technology",
+      "card_do_hoa": "Card tích hợp - 8 nhân GPU",
+      "cong_ket_noi": "2 x Thunderbolt 3, Jack tai nghe 3.5 mm, MagSafe 3"
+    },
+    {
+      "id": "22",
+      "id_sp": "22",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Qualcomm Snapdragon 695 5G",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.1",
+      "pin": "5000mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C , 3.5 mm"
+    },
+    {
+      "id": "23",
+      "id_sp": "23",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Snapdragon 695 5G (6 nm) GPU: Adreno 619",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.1",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "24",
+      "id_sp": "24",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Qualcomm Snapdragon 870 5G",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "8840 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C"
+    },
+    {
+      "id": "25",
+      "id_sp": "25",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "MediaTek Dimensity 1300",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.2",
+      "pin": "4830 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "26",
+      "id_sp": "26",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Intel Core i7-11800H Gen 11",
+      "sim": "",
+      "blue_tooth": "v5.2",
+      "pin": "3-Cell 52.4 (Whr)",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "NVIDIA GeForce RTX 3050, 4GB GDDR6",
+      "cong_ket_noi": "1x Type-C USB3.2 Gen1, 3x Type-A USB3.2 Gen1, 1x (4K @ 30Hz) HDMI, 1x RJ45, 1x Mic-in, 1x Headphone-out"
+    },
+    {
+      "id": "27",
+      "id_sp": "27",
+      "ram": "12GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "MediaTek Dimensity 9200",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.3",
+      "pin": "4300 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "28",
+      "id_sp": "28",
+      "ram": "12GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Snapdragon 8 Gen 2 for Galaxy",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.2",
+      "pin": "10.090 mAh",
+      "cong_nghe_man_hinh": "Dynamic AMOLED 2X",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "29",
+      "id_sp": "29",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Mediatek MT8781 Helio G99",
+      "sim": "2 SIM (Nano-SIM)",
+      "blue_tooth": "v5.2",
+      "pin": "4600 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "30",
+      "id_sp": "30",
+      "ram": "12GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Snapdragon 8 Gen 1",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.2",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "Dynamic AMOLED 2X",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "31",
+      "id_sp": "31",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Snapdragon 8 Gen 2 for Galaxy",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.3",
+      "pin": "3700 mAh",
+      "cong_nghe_man_hinh": "Dynamic AMOLED 2X",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, 3.5 mm"
+    },
+    {
+      "id": "32",
+      "id_sp": "32",
+      "ram": "16GB",
+      "dia": {
+        "small": "256GB",
+        "medium": "512GB",
+        "large": "1TB"
+      },
+      "cpu": "Apple M2 Pro",
+      "sim": "",
+      "blue_tooth": "v5.2",
+      "pin": "50Wh",
+      "cong_nghe_man_hinh": "ProMotion, True Tone Technology",
+      "card_do_hoa": "Card tích hợp - 19-core GPU",
+      "cong_ket_noi": "3 x Thunderbolt 4, 3.5 mm, MagSafe 3, HDMI"
+    },
+    {
+      "id": "33",
+      "id_sp": "33",
+      "ram": "8GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "Intel Core i5-1135G7 Gen 11",
+      "sim": "1 Nano SIM & 1 eSIM",
+      "blue_tooth": "v5.3",
+      "pin": "53 WHr",
+      "cong_nghe_man_hinh": "Màn hình Anti-glare",
+      "card_do_hoa": "Intel Iris Xe graphics",
+      "cong_ket_noi": "1x USB-C, 2x USB Type A, 1x HDMI, Đầu đọc thẻ SD"
+    },
+    {
+      "id": "34",
+      "id_sp": "34",
+      "ram": "6GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple A16 Bionic 6-core",
+      "sim": "2 SIM (nano‑SIM và eSIM)",
+      "blue_tooth": "v5.3",
+      "pin": "4.323 mAh",
+      "cong_nghe_man_hinh": "Super Retina XDR OLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Lightning"
+    },
+    {
+      "id": "35",
+      "id_sp": "35",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Intel Core i3-1115G4",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "3-cell, 41 Wh lithium-polymer",
+      "cong_nghe_man_hinh": "AG, Flat",
+      "card_do_hoa": "Intel UHD Graphics",
+      "cong_ket_noi": "1x USB 3.2 Gen 1, 2x USB 3.2 Gen 1, 1x USB 2.0, 1x Power Jack, 1x headset, 1x HDMI 1.4"
+    },
+    {
+      "id": "36",
+      "id_sp": "36",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple M1 8 nhân",
+      "sim": "",
+      "blue_tooth": "v5.0",
+      "pin": "28.6 Wh",
+      "cong_nghe_man_hinh": "Retina IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C"
+    },
+    {
+      "id": "37",
+      "id_sp": "37",
+      "ram": "12GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Snapdragon 8 Gen 2",
+      "sim": "",
+      "blue_tooth": "v5.2",
+      "pin": "8,400 mAh",
+      "cong_nghe_man_hinh": "Dynamic AMOLED 2X",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, GPS"
+    },
+    {
+      "id": "38",
+      "id_sp": "38",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "MediaTek Dimensity 7050",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.3",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, GPS"
+    },
+    {
+      "id": "39",
+      "id_sp": "39",
+      "ram": "12GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Dimensity 9200+",
+      "sim": "2 SIM (nano‑SIM và eSIM)",
+      "blue_tooth": "v5.3",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "OLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C"
+    },
+    {
+      "id": "40",
+      "id_sp": "40",
+      "ram": "16GB",
+      "dia": {
+        "small": "256GB",
+        "medium": "512GB",
+        "large": "1TB"
+      },
+      "cpu": "Intel Core i7-13620H",
+      "sim": "",
+      "blue_tooth": "v5.2",
+      "pin": "3 cell, 53.5Whr",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "NVIDIA GeForce RTX 4060, GDDR6 8GB",
+      "cong_ket_noi": "Hồng ngoại, OTG, 3.5 mm"
+    },
+    {
+      "id": "41",
+      "id_sp": "41",
+      "ram": "16GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "AMD Ryzen 5 7530U",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "75WHrs, 2S2P, 4-cell Li-ion",
+      "cong_nghe_man_hinh": "Display HDR True Black 600, PANTONE Validated, Glossy display, SGS Eye Care Display",
+      "card_do_hoa": "AMD Radeon Graphics",
+      "cong_ket_noi": "Type-C , OTG"
+    },
+    {
+      "id": "42",
+      "id_sp": "42",
+      "ram": "4GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Qualcomm Snapdragon 685",
+      "sim": "2 SIM (Nano-SIM)",
+      "blue_tooth": "v5.1",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C , 3.5 mm"
+    },
+    {
+      "id": "43",
+      "id_sp": "43",
+      "ram": "4GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Unisoc UNISOC T612",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.0",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, GPS"
+    },
+    {
+      "id": "44",
+      "id_sp": "44",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Apple M2 8 nhân",
+      "sim": "1 Nano SIM hoặc 1 eSIM",
+      "blue_tooth": "v5.3",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "Liquid Retina XDR mini-LED LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C"
+    },
+    {
+      "id": "45",
+      "id_sp": "45",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Qualcomm Snapdragon 695",
+      "sim": "2 SIM (Nano-SIM)",
+      "blue_tooth": "v5.0",
+      "pin": "4800 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, GPS"
+    },
+    {
+      "id": "46",
+      "id_sp": "46",
+      "ram": "4GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "MediaTek Helio P35 8 nhân",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.0",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, GPS"
+    },
+    {
+      "id": "47",
+      "id_sp": "47",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Mediatek Dimensity 7050 5G",
+      "sim": "2 Nano SIM",
+      "blue_tooth": "v5.2",
+      "pin": "5000 mAh",
+      "cong_nghe_man_hinh": "AMOLED",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C , 3.5 mm"
+    },
+    {
+      "id": "48",
+      "id_sp": "48",
+      "ram": "16GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Intel Core i5-13500H",
+      "sim": "",
+      "blue_tooth": "v5.0",
+      "pin": "50WHrs, 3S1P, 3-cell Li-ion",
+      "cong_nghe_man_hinh": "Display HDR True Black 600, SGS Eye Care Display",
+      "card_do_hoa": "Intel Iris Xe Graphics",
+      "cong_ket_noi": "1x USB 2.0 Type-A, 1x USB 3.2 Gen 1 Type-C (Sạc), 2x USB 3.2 Gen 1 Type-A, 1x HDMI 1.4, 1x 3.5mm Combo Audio Jack, 1x DC-in"
+    },
+    {
+      "id": "49",
+      "id_sp": "49",
+      "ram": "16GB",
+      "dia": {
+        "small": "128GB",
+        "medium": "256GB",
+        "large": "512GB"
+      },
+      "cpu": "Apple M2",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "52Wh",
+      "cong_nghe_man_hinh": "LED Backlit, Công nghệ IPS, True Tone Technology",
+      "card_do_hoa": "Card tích hợp - 10 nhân GPU",
+      "cong_ket_noi": "2 x Thunderbolt / USB 4, Jack tai nghe 3.5 mm, MagSafe 3"
+    },
+    {
+      "id": "50",
+      "id_sp": "50",
+      "ram": "8GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Intel Core i5-1135G7",
+      "sim": "",
+      "blue_tooth": "v5.3",
+      "pin": "3 Cell, 41 Wh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "Intel® UHD Graphics",
+      "cong_ket_noi": "2 USB 3.2 Gen 1, 1 USB 2.0 port, 1 cổng nguồn, 1 headset, 1 HDMI 1.4"
+    },
+    {
+      "id": "51",
+      "id_sp": "51",
+      "ram": "6GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Exynos 1380",
+      "sim": "Nano-SIM + eSIM",
+      "blue_tooth": "v5.3",
+      "pin": "8000 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C"
+    },
+    {
+      "id": "52",
+      "id_sp": "52",
+      "ram": "6GB",
+      "dia": {
+        "small": "64GB",
+        "medium": "128GB",
+        "large": "256GB"
+      },
+      "cpu": "Qualcomm SM6225 Snapdragon 680",
+      "sim": "",
+      "blue_tooth": "v5.0",
+      "pin": "8000 mAh",
+      "cong_nghe_man_hinh": "IPS LCD",
+      "card_do_hoa": "",
+      "cong_ket_noi": "Type-C, NFC"
+    }
+  ],
+  "don_hang": [
+    {
+      "id": "1371",
+      "ho_ten": "Hoàng",
+      "email": "hoang@gmail.com",
+      "dia_chi": "TP.HCM",
+      "so_dien_thoai": "0987654321",
+      "phuong_thuc_tt": "2"
+    },
+    {
+      "id": "411e",
+      "ho_ten": "Hoàng",
+      "email": "hoang@gmail.com",
+      "dia_chi": "TP.HCM",
+      "so_dien_thoai": "0987654321",
+      "phuong_thuc_tt": "1"
+    }
+  ],
+  "don_hang_chi_tiet": [
+    {
+      "id": "339b",
+      "id_dh": "1371",
+      "id_sp": "1",
+      "ten_sp": "Samsung Galaxy Z Flip",
+      "hinh_anh": "./image/img-samsung/samsung_galaxy_z_flip.jpg",
+      "so_luong": 2,
+      "gia": "11190000",
+      "thanh_tien": 22380000
+    },
+    {
+      "id": "1067",
+      "id_dh": "411e",
+      "id_sp": "30",
+      "ten_sp": "Samsung Galaxy S22 Ultra",
+      "hinh_anh": "./image/img-samsung/samsung_galaxys22ultra.jpg",
+      "so_luong": 3,
+      "gia": "17550000",
+      "thanh_tien": 52650000
+    },
+    {
+      "id": "6271",
+      "id_dh": "411e",
+      "id_sp": "19",
+      "ten_sp": "Samsung Galaxy Z Fold4",
+      "hinh_anh": "./image/img-samsung/samsung_galaxy_z_fold_4.jpg",
+      "so_luong": 2,
+      "gia": "15490000",
+      "thanh_tien": 30980000
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "ho_ten": "Lý Văn Tủn",
+      "mat_khau": "hehe",
+      "email": "dodatcao@gmail.com"
+    },
+    {
+      "id": "2",
+      "ho_ten": "Trần Văn Tí",
+      "mat_khau": "haha",
+      "email": "dodatcao@gmail.com"
+    }
+  ]
+}
